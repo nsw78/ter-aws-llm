@@ -1,0 +1,12 @@
+# EditorConfig ajuda editores a manter estilos consistentes
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Use tabs em Makefile e preserve indentação
+[Makefile]
+indent_style = tab
